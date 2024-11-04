@@ -4,7 +4,7 @@
       <p>
         Aplicativo simples para geração de diagramas de roseta
       </p>
-      <a href="https://github.com/FrostPredator/rose-charter/releases/latest"><img alt="Static Badge" src="https://img.shields.io/github/v/tag/FrostPredator/rose-charter?label=Baixar&sort=semver"></a>
+      <a href="https://github.com/FrostPredator/rose-charter/releases/latest"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20-%20Vers%C3%A3o%20mais%20recente%20-%20%231082c3"></a>
       <img alt="Static Badge" src="https://img.shields.io/github/downloads/FrostPredator/rose-charter/total?label=Downloads">
       <br>
       <br>
