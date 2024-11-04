@@ -1,6 +1,25 @@
-# rose-charter-rep
-Aplicativo simples para geração de diagramas de roseta a partir de dados contidos em tabelas.  
-  
-v2.0:  
--Nova interface  
--Agora gera diagramas de 2 variáveis  
+<div align="center"/>
+  <p>
+    <h1>Rose Charter</h1>
+      <p>
+        Aplicativo simples para geração de diagramas de roseta
+      </p>
+      <a href="https://github.com/FrostPredator/rose-charter/releases/latest"><img alt="Static Badge" src="https://img.shields.io/github/v/tag/FrostPredator/rose-charter?label=Baixar&sort=semver"></a>
+      <img alt="Static Badge" src="https://img.shields.io/github/downloads/FrostPredator/rose-charter/total?label=Downloads">
+      <br>
+      <br>
+      <img src="https://github.com/user-attachments/assets/0bfa345a-4b0a-4a83-8307-f343c6d9c984" width=600>
+  <p>
+</div>
+
+## Features
+
+- Aceita dados tabulados em formato XLSX, XLSM, CSV e ODS
+- Plota diagrama de roseta de uma e duas variáveis
+- Exporta diagramas em formato PNG, JPG e SVG
+
+## Atribuições
+
+Rose Charter © 2022 Gabriel Maccari
+
+Icons by [icons8](https://icons8.com/)
